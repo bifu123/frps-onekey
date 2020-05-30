@@ -214,3 +214,6 @@ Frps onkey-install-shell Changelog<br>Frp版本更新说明
      >Support render configure file template with os environment.
     * ### Change
      >Remove check for authentication timeout.
+     
+ 与OGROK的区别：
+ frp的客户端是路由器更为适合，而ogrok的客户端是PC终端更适合
